@@ -1,5 +1,9 @@
 # Zomato
-Covered Medium to Advanced level concepts including Data Cleaning , Data Exploration , Window functions , CTE 
+Covered Medium to Advanced level concepts including 
+- Data Cleaning , 
+- Data Exploration ,
+- Window functions ,
+- CTE 
 
 # Schema 
 
