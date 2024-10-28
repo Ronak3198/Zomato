@@ -1,4 +1,4 @@
-# Zomato
+# Sample Zomato dataset
 Covered Medium to Advanced level concepts including 
 - Data Cleaning 
 - Data Exploration 
